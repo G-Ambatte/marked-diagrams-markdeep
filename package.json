@@ -1,6 +1,6 @@
 {
-  "name": "marked-diagrams",
-  "version": "1.13.0",
+  "name": "marked-diagrams-markdeep",
+  "version": "1.0.0",
   "description": "A Marked extension for creating SVGs from ASCII art, using code from Markdeep v1.13 by Morgan McGuire (https://casual-effects.com)",
   "main": "./lib/index.cjs",
   "module": "./src/index.js",

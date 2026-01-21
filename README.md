@@ -1,4 +1,4 @@
-# marked-diagrams
+# marked-diagrams-markdeep
 
 A Marked extension to create SVGs from ASCII text, using the diagramming code from [Markdeep](https://github.com/morgan3d/markdeep), by Morgan McGuire (https://casual-effects.com).
 
@@ -9,7 +9,7 @@ Largely inspired by [aasvg](https://github.com/martinthomson/aasvg), a project b
 
 ```js
 import { marked } from "marked";
-import markedDiagrams from "marked-diagrams";
+import markedDiagrams from "marked-diagrams-markdeep";
 
 // or UMD script
 // <script src="https://cdn.jsdelivr.net/npm/marked/lib/marked.umd.js"></script>
