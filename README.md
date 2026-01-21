@@ -1,8 +1,6 @@
 # marked-diagrams-markdeep
 
-A Marked extension to create SVGs from ASCII text, using the diagramming code from [Markdeep](https://github.com/morgan3d/markdeep), by Morgan McGuire (https://casual-effects.com).
-
-Largely inspired by [aasvg](https://github.com/martinthomson/aasvg), a project by [Martin Thomson](https://github.com/martinthomson).
+A Marked extension to create SVGs from ASCII text, using the diagramming functions from [aasvg](https://github.com/martinthomson/aasvg), a project by [Martin Thomson](https://github.com/martinthomson), which in turn is an implementation of the diagramming code from [Markdeep v1.13](https://github.com/morgan3d/markdeep), by Morgan McGuire (https://casual-effects.com).
 
 # Usage
 <!-- Show most examples of how to use this extension -->
